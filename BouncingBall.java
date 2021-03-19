@@ -1,4 +1,4 @@
-package collectionsDEMO7;
+package collectionsLinkedList7;
 
 import java.awt.Color;
 
